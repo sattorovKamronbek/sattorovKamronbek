@@ -126,9 +126,9 @@
 
 <table><thead><tr><th>Repository Annual Ranking</th><th>Find More</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&amp;collection_id=2&amp;image_size=auto"></td><td><a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Visit our website</a></td></tr></tbody></table>
 <h2 id="contact-us">Contact us</h2>
-<a href="https://twitter.com/OSSInsight" target="_blank">
+<a href="https://twitter.com/" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
-</a><a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+</a><a href="https://github.com/sattorovKamronbek" target="_blank">
 <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
 </a><a href="mailto:ossinsight@pingcap.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" style="margin-bottom: 5px;">
